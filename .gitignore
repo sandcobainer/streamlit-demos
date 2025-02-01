@@ -4,4 +4,4 @@ share
 pyvenv.cfg
 etc
 Include
-.streamlit
+.streamlit/secrets.toml
